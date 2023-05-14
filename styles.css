@@ -321,7 +321,21 @@ a.btn.btn-outline-success.card-view-detail {
     margin-bottom: 10px;
 }
 
+/* Paging */
 
+.nav-paging {
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+}
 
+.page-link {
+    padding: 5px 20px;
+    color: black;
+}
+
+li.page-item {
+    font-size: 16px;
+}
 
 
